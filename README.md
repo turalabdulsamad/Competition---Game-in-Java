@@ -28,13 +28,13 @@ Then the system displays info. The participants of the competition were successf
 
 Select the next operation:
 
-Register contestants
+1. Register contestants
 
-Start competing
+2. Start competing
 
-Logout
+3. Logout
 
-Exit
+4. Exit
 
 2. If selected to start the competition
 
